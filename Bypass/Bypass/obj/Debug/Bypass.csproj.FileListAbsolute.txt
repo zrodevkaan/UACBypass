@@ -1,0 +1,8 @@
+D:\GithubClones\UACBypass\Bypass\Bypass\bin\Debug\Bypass.exe.config
+D:\GithubClones\UACBypass\Bypass\Bypass\bin\Debug\Bypass.exe
+D:\GithubClones\UACBypass\Bypass\Bypass\bin\Debug\Bypass.pdb
+D:\GithubClones\UACBypass\Bypass\Bypass\obj\Debug\Bypass.csproj.AssemblyReference.cache
+D:\GithubClones\UACBypass\Bypass\Bypass\obj\Debug\Bypass.csproj.SuggestedBindingRedirects.cache
+D:\GithubClones\UACBypass\Bypass\Bypass\obj\Debug\Bypass.csproj.CoreCompileInputs.cache
+D:\GithubClones\UACBypass\Bypass\Bypass\obj\Debug\Bypass.exe
+D:\GithubClones\UACBypass\Bypass\Bypass\obj\Debug\Bypass.pdb
