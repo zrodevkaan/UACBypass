@@ -1,0 +1,8 @@
+D:\GithubClones\UACBypass\UACBypass\obj\Debug\UACBypass.csproj.AssemblyReference.cache
+D:\GithubClones\UACBypass\UACBypass\obj\Debug\UACBypass.csproj.SuggestedBindingRedirects.cache
+D:\GithubClones\UACBypass\UACBypass\obj\Debug\UACBypass.csproj.CoreCompileInputs.cache
+D:\GithubClones\UACBypass\UACBypass\bin\Debug\UACBypass.exe.config
+D:\GithubClones\UACBypass\UACBypass\bin\Debug\UACBypass.exe
+D:\GithubClones\UACBypass\UACBypass\bin\Debug\UACBypass.pdb
+D:\GithubClones\UACBypass\UACBypass\obj\Debug\UACBypass.exe
+D:\GithubClones\UACBypass\UACBypass\obj\Debug\UACBypass.pdb
